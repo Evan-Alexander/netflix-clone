@@ -1,0 +1,12 @@
+.movieDetail {
+  position: relative;
+  /* remove to make this look good! */
+  padding: 40px; 
+}
+
+
+.donkey {
+  position: absolute;
+  top: 100px;
+  left: 30px;
+}
